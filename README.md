@@ -3,7 +3,9 @@ Reinforced Learning on custom envirement where the agent should hide behind wall
 ![alt text](https://github.com/Murat-Simsek/Hide-and-Seek-from-Turret/blob/main/images/Turret_env.png)
 
 Red block : Turret 
+
 Blue block : Walls
+
 Green block : Agent
 
 ### Installation
