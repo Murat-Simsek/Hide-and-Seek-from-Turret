@@ -12,7 +12,7 @@ Green block : Agent
 
 pip install -r requirements.txt
 
-Run Scrip in main.
+Run Script in main.py
 
 ### Sources
 
