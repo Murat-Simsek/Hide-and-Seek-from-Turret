@@ -15,6 +15,13 @@ pip install -r requirements.txt
 
 Run Script in main.py
 
+### Next to do:
+- Add agent-walls collision.
+- Agent STAY action
+- Tunning reward systems
+- Training more.
+
+
 ### Sources
 
 - https://stable-baselines3.readthedocs.io/en/master/guide/custom_env.html
@@ -23,3 +30,5 @@ Run Script in main.py
 - https://www.pygame.org/docs/
 - https://towardsdatascience.com/deep-q-learning-tutorial-mindqn-2a4c855abffc
 - https://stackoverflow.com/questions/63838657/2d-raycasting-and-rect-collision-in-pygame-line-of-sight-obstacles
+
+
